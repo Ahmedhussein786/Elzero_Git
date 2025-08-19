@@ -1,3 +1,4 @@
 # Elzero_Git
-##applying elzero playlist
-###go ahead
+applying elzero playlist
+## go ahead
+### its good idea
